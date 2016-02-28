@@ -1,0 +1,33 @@
+_repo: The-Solitary-Summer_5991
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Beauchamp, Mary Annette
+    - Arnim, Elizabeth von
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Cholmondeley, Alice
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Gardening -- Fiction'
+- !lcsh 'Women gardeners -- Fiction'
+title: The Solitary Summer
+url: http://www.gutenberg.org/ebooks/5991
