@@ -1,5 +1,5 @@
 _repo: The-Solitary-Summer_5991
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Autobiographical fiction'
 - !lcsh 'Gardening -- Fiction'
 - !lcsh 'Women gardeners -- Fiction'
+- GITenberg
 title: The Solitary Summer
 url: http://www.gutenberg.org/ebooks/5991
